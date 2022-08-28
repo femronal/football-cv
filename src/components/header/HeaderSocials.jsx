@@ -1,16 +1,16 @@
 import React from 'react'
-// import {BsLinkedin} from 'react-icons/bs'
-// import {FaGithub} from 'react-icons/fa'
-// import {FiDribble} from 'react-icons/fi'
+import {BsYoutube} from 'react-icons/bs'
+import {BsWhatsapp} from 'react-icons/bs'
+import {BsInstagram} from 'react-icons/bs'
 
 
 const HeaderSocials = () => {
   return (
     <div>
         <div className="header__socials">
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">₦</a>
-            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">ﭲ</a>
-            <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">☻</a>
+            <a href="https://www.youtube.com/channel/UCqTUpI4O1wJJLObomHF88Pg" target="_blank" rel="noopener noreferrer"><BsYoutube/></a>
+            <a href="https://www.instagram.com/femronal/" target="_blank" rel="noopener noreferrer"><BsInstagram/></a>
+            <a href="+2348139036559" target="_blank" rel="noopener noreferrer"><BsWhatsapp/></a>
         </div>
     </div>
   )

@@ -1,6 +1,6 @@
-.testimonials__container{
+.container .testimonials__container{
     width: 40%;
-    
+    padding-bottom: 4rem;
 }
 
 .coach__avatar{
@@ -26,6 +26,20 @@
     display: block;
     width: 80%;
     margin: 0.8rem auto 0;
+}
+
+/* ========== PAGINATION ========== */
+
+.swiper-horizontal>.swiper-pagination-bullets, .swiper-pagination-bullets
+.swiper-pagination-horizontal,.swiper-pagination-custom, .swiper-pagination-fraction {
+    bottom: -0px;
+    left: 0;
+    width: 100%;
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    cursor: pointer;
+    background: gold;
 }
 
 /* ========== MEDIA QUERIES // TABLETS ========== */

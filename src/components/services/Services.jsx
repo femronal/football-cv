@@ -1,6 +1,6 @@
 import React from 'react'
 import './services.css'
-// import {BiCheck} from 'react-icons/bi'
+import {FaCheck} from 'react-icons/fa'
 
 const Services = () => {
   return (
@@ -19,32 +19,32 @@ const Services = () => {
 
             <ul className="service__list">
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
             </ul>
@@ -60,37 +60,37 @@ const Services = () => {
 
             <ul className="service__list">
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
               
@@ -106,32 +106,32 @@ const Services = () => {
           </div>
             <ul className="service__list">
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
 
               <li>
-                <span className="service-list-icon">♣</span>
+                <span className="service-list-icon"><FaCheck/></span>
                 <p>Lorem, ipsum dolor sit amet consectetur aipisicing elit.</p>
               </li>
             </ul>
